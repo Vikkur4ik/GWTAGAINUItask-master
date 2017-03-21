@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GWTAGAINUItask:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="GWTAGAIN3-1.0.war">
+      <element id="artifact" artifact-name="GWTAGAINUItask:war exploded" />
+    </root>
+  </artifact>
+</component>

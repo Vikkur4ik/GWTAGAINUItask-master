@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: small;
+    margin: 8px;
+}
+#buttons{
+    width: 100%;
+    text-align: center;
+}
+#content {
+    text-align: center;
+
+}
+#table {
+    display: inline-block;
+}
+#table {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+}
+h1{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    color: #6f5de2;
+}
+#table {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 145%;
+    color: darkblue ;
+}
